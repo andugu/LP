@@ -23,7 +23,7 @@ This saves a graph file in c/ that contains all the elements of the quiz
 
 ### Telegram Bot
 
-#####First we need to move the graph created to /bot/enquestes, and rename it to whatever we want it to be called inside the chat
+First we need to move the graph created to /bot/enquestes, and rename it to whatever we want it to be called inside the chat
 
 ```
 mv ./c/graf ./bot/enquestes/E
